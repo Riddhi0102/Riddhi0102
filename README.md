@@ -17,5 +17,5 @@ Python • Java • TypeScript • React • Node.js • SQL
 - Radar Signal Processor
 
 ## Connect
-LinkedIn: ...
-Email: ...
+LinkedIn: linkedin.com/in/riddhisharma01
+Email: sharma01riddhi@gmail.com
