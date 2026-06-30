@@ -19,9 +19,9 @@
 - 🧠 **NuroLab** — EEG-based cognitive wellness platform
 
 ### Research
-📄 *Aerial Defense Systems: Strategic Shielding in Modern Warfare* — Published in JETIR, Dec 2025
+📄 *Aerial Defense Systems: Strategic Shielding in Modern Warfare* — Published in JETIR, Dec 2025 <br>
 🛰️ iDEX (MoD) Proposal — AI-based cognitive readiness drift detection (Under evaluation)
 
 ### Connect
-🔗 [LinkedIn](https://www.linkedin.com/in/riddhisharma01/)
+🔗 [LinkedIn](https://www.linkedin.com/in/riddhisharma01/) <br>
 📧 [sharma01riddhi@gmail.com](mailto:sharma01riddhi@gmail.com)
