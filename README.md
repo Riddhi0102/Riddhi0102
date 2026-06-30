@@ -15,10 +15,8 @@
 **Databases:** MySQL • PostgreSQL
 
 ### Featured Projects
-- 🩹 **AI-Powered First Aid Voice Assistant** — ML+NLP emergency classification with voice interface (React + FastAPI)
 - ♿ **Aura** — Cognitive Reading Assistant Chrome Extension for neurodivergent users
 - 🧠 **NuroLab** — EEG-based cognitive wellness platform
-- 💬 **AI Book Recommendation Chatbot** — built with IBM Watson Assistant
 
 ### Research
 📄 *Aerial Defense Systems: Strategic Shielding in Modern Warfare* — Published in JETIR, Dec 2025
