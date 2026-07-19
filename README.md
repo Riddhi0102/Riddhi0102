@@ -121,7 +121,7 @@ Python toolkit for radar signal processing and visualization.
 
 Published in **JETIR (2025)**
 
-🚀 **Current Research**
+🚀 **Research Interests**
 
 - AI-assisted EEG Analysis
 - Cognitive Readiness Assessment
@@ -159,4 +159,10 @@ Published in **JETIR (2025)**
 ---
 > *"Curiosity drives innovation. Engineering turns it into reality."*
 ---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=120&section=footer"/>
+
+</p>
 
