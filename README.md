@@ -31,24 +31,18 @@ Artificial Intelligence • Software Engineering • Research
 
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
-🎓 Final Year B.Tech Computer Science Student
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWxvdGNpdnlweXFvMnA2YjR2b2Mzb2VyOW95bG9xMnNlaTZkMmF6aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
 
-💼 Intern @ Coforge
-
-🧠 Interested in Artificial Intelligence, Machine Learning, Software Engineering and Intelligent Systems.
-
-🛰️ Research Interests
-
-- Artificial Intelligence
-- Defence Technology
-- Signal Processing
-- Cognitive Computing
-- Intelligent Automation
-
-🎖️ NCC 'C' Certificate
-
+- 🎓 Final Year B.Tech Computer Science Student
+- 💼 Software Engineering Intern @ **Coforge** (Shared Services Department)
+- 🧠 Interested in Artificial Intelligence, Machine Learning & Intelligent Systems
+- 🔬 Working on AI-powered healthcare and defence-tech applications
+- 📚 Published research in **JETIR**
+- 🎖️ NCC 'C' Certificate Holder
+- 🌱 Currently exploring **LLMs, Flutter, FastAPI & Signal Processing**
+- ⚡ Fun fact: I love building projects that solve real-world problems.
 ---
 
 # 🚀 Featured Projects
