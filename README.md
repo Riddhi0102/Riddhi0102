@@ -41,17 +41,62 @@ Artificial Intelligence • Software Engineering • Research
 - 🎖️ NCC 'C' Certificate holder with leadership and team coordination experience
 - 🌱 Currently working with Flutter, FastAPI, Python, React, and Machine Learning
 ---
+## 🚀 Current Focus
 
-# 🚀 Featured Projects
+- 🧠 Developing AI-powered healthcare solutions through **NuroLab**
+- 💼 Software Engineering Intern @ **Coforge** (Shared Services Department)
+- 📚 Exploring **LLMs, Signal Processing, Flutter & FastAPI**
+- 🛡️ Researching AI applications in **Healthcare** and **Defence Technology**
 
-| Project | Description |
-|---------|-------------|
-| 🧠 NuroLab | EEG-based Cognitive Wellness Platform |
-| ♿ Aura | AI-powered Chrome Extension |
-| 🤖 Aegis Swarm | Defence AI Multi-Agent Simulation |
-| 📡 Radar Signal Processor | Signal Processing using Python |
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 NuroLab
+EEG-based cognitive wellness platform integrating AI, signal processing, and Flutter.
+
+</td>
+
+<td width="50%">
+
+### ♿ Aura
+AI-powered Chrome extension designed to improve accessibility and reading experience.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🤖 Aegis Swarm
+Multi-agent AI simulation for autonomous defence swarm coordination.
+
+</td>
+
+<td width="50%">
+
+### 📡 Radar Signal Processor
+Python-based radar signal processing and visualization toolkit.
+
+</td>
+</tr>
+</table>
 
 ---
+## 📚 Research
+
+📄 **Aerial Defense Systems: Strategic Shielding in Modern Warfare**
+
+Published in **JETIR (2025)**
+
+🚀 **Current Research**
+
+- AI-assisted EEG Analysis
+- Cognitive Readiness Assessment
+- Defence AI
+- Intelligent Signal Processing
 
 # 🛠️ Tech Stack
 
