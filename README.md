@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-Turning curiosity into code.
+Turning curiosity into code
 </h1>
 
 <h3 align="center">
