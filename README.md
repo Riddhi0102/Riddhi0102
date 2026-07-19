@@ -1,14 +1,20 @@
 <p align="center">
-  <img src="assets/banner/banner.png" width="100%" alt="Banner"/>
+<img src="assets/banner/banner.png" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Riddhi Sharma</h1>
+<h1 align="center">
+Hi 👋 I'm Riddhi Sharma
+</h1>
 
 <h3 align="center">
 AI • Software Engineering • Intelligent Systems
 </h3>
 
 <p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Software+Engineering+Intern+%40+Coforge;AI+Research+Enthusiast;Building+Technology+for+Real-World+Impact;Machine+Learning+%7C+Signal+Processing;Open+Source+Learner"/>
+
+</p>
 
 <a href="https://www.linkedin.com/in/riddhisharma01/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
