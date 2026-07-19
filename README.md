@@ -7,8 +7,12 @@ Hi 👋 I'm Riddhi Sharma
 </h1>
 
 <h3 align="center">
-AI • Software Engineering • Intelligent Systems
+Artificial Intelligence • Software Engineering • Research
 </h3>
+
+<h2 align="center">
+Intern @ Coforge • Shared Services Department
+</h2>
 
 <p align="center">
 
