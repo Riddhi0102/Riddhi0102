@@ -60,14 +60,22 @@ Artificial Intelligence • Software Engineering • Research
 <td width="50%">
 
 ### 🧠 NuroLab
-EEG-based cognitive wellness platform integrating AI, signal processing, and Flutter.
+EEG-powered cognitive wellness platform combining AI, signal processing, and Flutter.
+
+<a href="https://github.com/Jalte-Diye-Foundation/NuroLab">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
 <td width="50%">
 
 ### ♿ Aura
-AI-powered Chrome extension designed to improve accessibility and reading experience.
+Accessibility-focused Chrome extension designed to enhance digital reading experiences.
+
+<a href="https://github.com/Riddhi0102/aura-chrome-extension.git">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 </tr>
@@ -76,14 +84,22 @@ AI-powered Chrome extension designed to improve accessibility and reading experi
 <td width="50%">
 
 ### 🤖 Aegis Swarm
-Multi-agent AI simulation for autonomous defence swarm coordination.
+Multi-agent AI simulation for autonomous defence coordination.
+
+<a href="https://github.com/Riddhi0102/Aegis-Swarm-AI-Based-Cooperative-Swarm-Coordination-Simulator-for-Defence-Missions.git">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
 <td width="50%">
 
 ### 📡 Radar Signal Processor
-Python-based radar signal processing and visualization toolkit.
+Python toolkit for radar signal processing and visualization.
+
+<a href="https://github.com/Riddhi0102/PDS70_Radar_Signal_Processor_PoC.git">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 </tr>
@@ -110,6 +126,13 @@ Published in **JETIR (2025)**
 </p>
 
 ---
+## 🌱 Currently Learning
+
+- 🤖 Large Language Models (LLMs)
+- 📱 Flutter & Cross-Platform Development
+- ⚡ FastAPI & Backend Engineering
+- 🧠 Advanced Machine Learning
+- ☁️ Cloud & DevOps Fundamentals
 
 ## 🏆 Achievements
 
@@ -120,6 +143,17 @@ Published in **JETIR (2025)**
 - 👩‍💻 Women Techmakers Member
 
 ---
+## 🏅 Google Developer Badges
+
+<p align="center">
+  <img src="assets/badges/google-developer.png" width="140"/>
+  <img src="assets/badges/android-studio.png" width="140"/>
+  <img src="assets/badges/sdk-tools.png" width="140"/>
+  <img src="assets/badges/women-techmakers.png" width="140"/>
+</p>
+
+> *"Curiosity drives innovation. Engineering turns it into reality."*
+
 ## 📊 GitHub Analytics
 
 <p align="center">
