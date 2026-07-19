@@ -157,13 +157,7 @@ Published in **JETIR (2025)**
 - 🧠 Advanced Machine Learning
 - ☁️ Cloud & DevOps Fundamentals
 ---
-<p align="center">
 
-<i>Curiosity drives innovation. Engineering turns it into reality.</i>
-
-</p>
-
----
 
 <p align="center">
 <i>Curiosity drives innovation. Engineering turns it into reality.</i>
