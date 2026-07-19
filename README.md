@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-Hi 👋 I'm Riddhi Sharma
+Turning curiosity into code.
 </h1>
 
 <h3 align="center">
