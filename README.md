@@ -109,7 +109,7 @@ Published in **JETIR**
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Riddhi0102&show_icons=true&theme=github_dark"/>
+<img height="170" src=["https://github-readme-stats.vercel.app/api?username=Riddhi0102&show_icons=true&theme=github_dark"/>](https://github-readme-stats.vercel.app/api?username=Riddhi0102&show_icons=true&theme=github_dark&cache_seconds=1800)
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Riddhi0102&theme=github-dark"/>
 
@@ -119,7 +119,7 @@ Published in **JETIR**
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riddhi0102&layout=compact&theme=github_dark"/>
+<img src=["https://github-readme-stats.vercel.app/api/top-langs/?username=Riddhi0102&layout=compact&theme=github_dark"/>](https://github-readme-stats.vercel.app/api/top-langs/?username=Riddhi0102&layout=compact&theme=github_dark&cache_seconds=1800)
 
 </p>
 
