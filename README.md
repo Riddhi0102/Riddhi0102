@@ -147,7 +147,7 @@ Published in **JETIR (2025)**
   <img src="assets/badges/sdk-tools.png" width="140"/>
   <img src="assets/badges/women-techmakers.png" width="140"/>
 </p>
----
+
 
 # 🌱 Currently Learning
 
@@ -162,7 +162,7 @@ Published in **JETIR (2025)**
 <i>Curiosity drives innovation. Engineering turns it into reality.</i>
 
 </p>
----
+
 
 <p align="center">
 
