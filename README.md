@@ -115,7 +115,7 @@ Python toolkit for radar signal processing and visualization.
 </table>
 
 ---
-# 📚 Research
+# 📚 Publications & Research
 
 📄 **Aerial Defense Systems: Strategic Shielding in Modern Warfare**
 
@@ -157,7 +157,11 @@ Published in **JETIR (2025)**
 - 🧠 Advanced Machine Learning
 - ☁️ Cloud & DevOps Fundamentals
 ---
-> *"Curiosity drives innovation. Engineering turns it into reality."*
+<p align="center">
+
+<i>Curiosity drives innovation. Engineering turns it into reality.</i>
+
+</p>
 ---
 
 <p align="center">
