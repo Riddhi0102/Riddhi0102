@@ -15,7 +15,7 @@ Artificial Intelligence • Software Engineering • Research
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=950&lines=Building+Intelligent+Systems;Intern+%40+Coforge-Shared+Services+Department;Turning+Ideas+Into+Impactful+Technology;Always+Learning.+Always+Building."/>
 </p>
 
-## 🤝 Let's Connect
+# 🤝 Let's Connect
 
 <p align="center">
 
@@ -36,7 +36,7 @@ Artificial Intelligence • Software Engineering • Research
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 - 🎓 Final Year B.Tech Computer Science student at **Mody University**
 - 💼 Software Engineering Intern @ **Coforge** (Shared Services Department)
@@ -46,14 +46,16 @@ Artificial Intelligence • Software Engineering • Research
 - 🎖️ NCC 'C' Certificate holder with leadership and team coordination experience
 - 🌱 Currently working with Flutter, FastAPI, Python, React, and Machine Learning
 ---
-## 🚀 Current Focus
+
+# 🚀 Current Focus
 
 - 🧠 Developing AI-powered healthcare solutions through **NuroLab**
 - 💼 Software Engineering Intern @ **Coforge** (Shared Services Department)
 - 📚 Exploring **LLMs, Signal Processing, Flutter & FastAPI**
 - 🛡️ Researching AI applications in **Healthcare** and **Defence Technology**
+---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 <table>
 <tr>
@@ -106,7 +108,7 @@ Python toolkit for radar signal processing and visualization.
 </table>
 
 ---
-## 📚 Research
+# 📚 Research
 
 📄 **Aerial Defense Systems: Strategic Shielding in Modern Warfare**
 
@@ -119,22 +121,24 @@ Published in **JETIR (2025)**
 - Defence AI
 - Intelligent Signal Processing
 
-## 💻 Tech Stack
+ --- 
+# ⚒️ Tech Arsenal
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,dart,flutter,react,fastapi,spring,mysql,postgresql,git,github,firebase,vscode,androidstudio&perline=9"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,dart,flutter,react,fastapi,spring,mysql,postgresql,firebase,git,github,vscode,androidstudio&perline=9" />
 </p>
 
 ---
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
 - 🤖 Large Language Models (LLMs)
 - 📱 Flutter & Cross-Platform Development
 - ⚡ FastAPI & Backend Engineering
 - 🧠 Advanced Machine Learning
 - ☁️ Cloud & DevOps Fundamentals
+---
 
-## 🏆 Achievements
+# 🏆 Achievements
 
 - 🎖️ NCC 'C' Certificate
 - 💼 Software Engineering Intern @ Coforge
@@ -153,8 +157,16 @@ Published in **JETIR (2025)**
 </p>
 
 > *"Curiosity drives innovation. Engineering turns it into reality."*
+---
 
-## 📊 GitHub Analytics
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Riddhi0102&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+</p>
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Riddhi0102&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
@@ -164,8 +176,9 @@ Published in **JETIR (2025)**
 <p align="center">
   <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riddhi0102&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Riddhi0102&theme=tokyo-night&hide_border=true"/>
@@ -177,8 +190,3 @@ Published in **JETIR (2025)**
 <i>"Code with purpose. Build with impact."</i>
 </p>
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Riddhi0102/Riddhi0102/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
