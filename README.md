@@ -176,3 +176,9 @@ Published in **JETIR (2025)**
 <p align="center">
 <i>"Code with purpose. Build with impact."</i>
 </p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Riddhi0102/Riddhi0102/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
