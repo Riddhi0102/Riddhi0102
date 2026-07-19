@@ -51,7 +51,6 @@ Artificial Intelligence • Software Engineering • Research
 
 ---
 
-# 🚀 Current Focus
 
 # 🚀 Current Focus
 
@@ -116,15 +115,21 @@ Python toolkit for radar signal processing and visualization.
 ---
 # 📚 Publications & Research
 
-📄 **Aerial Defense Systems: Strategic Shielding in Modern Warfare**
+### 📄 Published Research
 
-Published in **JETIR (2025)**
+**Aerial Defense Systems: Strategic Shielding in Modern Warfare with Reference to Operation Sindoor**
 
-🚀 **Research Interests**
+📰 Published in **JETIR – International Journal for Engineering and Technical Research**
+
+📅 **2025**
+
+---
+
+### 🔬 Research Interests
 
 - Artificial Intelligence
-- EEG Signal Processing
 - Intelligent Healthcare Systems
+- EEG Signal Processing
 - Defence Technology
 - Large Language Models
 
