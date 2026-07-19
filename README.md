@@ -10,14 +10,9 @@ Hi 👋 I'm Riddhi Sharma
 Artificial Intelligence • Software Engineering • Research
 </h3>
 
-<h2 align="center">
-Intern @ Coforge • Shared Services Department
-</h2>
-
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Software+Engineering+Intern+%40+Coforge;AI+Research+Enthusiast;Building+Technology+for+Real-World+Impact;Machine+Learning+%7C+Signal+Processing;Open+Source+Learner"/>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=950&lines=Building+Intelligent+Systems;AI+%7C+Software+Engineering+%7C+Research;Software+Engineering+Intern+%40+Coforge;Turning+Ideas+Into+Impactful+Technology;Always+Learning.+Always+Building."/>
 </p>
 
 <a href="https://www.linkedin.com/in/riddhisharma01/">
