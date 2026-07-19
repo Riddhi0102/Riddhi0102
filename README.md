@@ -15,8 +15,6 @@ Artificial Intelligence • Software Engineering • Research
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=950&lines=Building+Intelligent+Systems;AI+Research+%7C+Software+Engineering;Turning+Ideas+Into+Impactful+Technology;Always+Learning.+Always+Building."/>
 </p>
 
-# 🤝 Let's Connect
-
 <p align="center">
 
 <a href="https://www.linkedin.com/in/riddhisharma01/">
@@ -31,7 +29,6 @@ Artificial Intelligence • Software Engineering • Research
 <img src="https://img.shields.io/badge/Google%20Developer-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 </a>
 
-</p>
 </p>
 
 ---
