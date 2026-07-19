@@ -98,51 +98,21 @@ Published in **JETIR (2025)**
 - Defence AI
 - Intelligent Signal Processing
 
-# 🛠️ Tech Stack
+## 💻 Tech Stack
 
-## Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,dart,flutter,react,fastapi,spring,mysql,postgresql,git,github,firebase,vscode,androidstudio&perline=9"/>
+</p>
 
 ---
 
-## Frameworks
+## 🏆 Achievements
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
-
----
-
-# 📚 Publications
-
-📄 **Aerial Defense Systems: Strategic Shielding in Modern Warfare**
-
-Published in **JETIR**
-
----
-
-# 🏆 Achievements
-
-🏅 Google Developer Program
-
-🎖️ NCC 'C' Certificate
-
-💼 Coforge Internship
-
-📄 JETIR Publication
+- 🎖️ NCC 'C' Certificate
+- 💼 Software Engineering Intern @ Coforge
+- 📄 Published Research in JETIR
+- 🌐 Google Developer Program Member
+- 👩‍💻 Women Techmakers Member
 
 ---
 ## 📈 GitHub Stats
