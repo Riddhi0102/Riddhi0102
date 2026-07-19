@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-Turning curiosity into code
+Turning research into real-world technology
 </h1>
 
 <h3 align="center">
