@@ -36,7 +36,7 @@ AI • Software Engineering • Intelligent Systems
 
 🎓 Final Year B.Tech Computer Science Student
 
-💼 Software Engineering Intern @ Coforge
+💼 Intern @ Coforge
 
 🧠 Interested in Artificial Intelligence, Machine Learning, Software Engineering and Intelligent Systems.
 
