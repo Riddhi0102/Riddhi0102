@@ -35,13 +35,13 @@ Artificial Intelligence • Software Engineering • Research
 
 # 👨‍💻 About Me
 
-- 🎓 Final Year B.Tech Computer Science student at **Mody University**
-- 💼 Software Engineering Intern @ **Coforge** (Shared Services Department)
-- 🧠 Building AI-powered solutions across healthcare, intelligent systems, and automation
-- 🔬 Research interests: Artificial Intelligence, Signal Processing, NLP, and Defence Technology
-- 📄 Published author in **JETIR**
-- 🎖️ NCC 'C' Certificate holder with leadership and team coordination experience
-- 🌱 Currently working with Flutter, FastAPI, Python, React, and Machine Learning
+- 🎓 **Final Year B.Tech Computer Science** student at **Mody University**
+- 💼 **Software Engineering Intern** @ **Coforge** (Shared Services Department)
+- 🧠 Designing AI-powered software across **Healthcare, Intelligent Systems & Automation**
+- 🔬 Research interests in **Artificial Intelligence, Signal Processing, NLP & Defence Technology**
+- 📄 **Published Author** in **JETIR (2025)**
+- 🎖️ **NCC 'C' Certificate Holder**
+- 🌱 Currently building with **Flutter, FastAPI, Python, React & Machine Learning**
 ---
 # ⚒️ Tech Arsenal
 
@@ -53,10 +53,12 @@ Artificial Intelligence • Software Engineering • Research
 
 # 🚀 Current Focus
 
-- 🧠 Developing AI-powered healthcare solutions through **NuroLab**
-- 💼 Software Engineering Intern @ **Coforge** (Shared Services Department)
-- 📚 Exploring **LLMs, Signal Processing, Flutter & FastAPI**
-- 🛡️ Researching AI applications in **Healthcare** and **Defence Technology**
+# 🚀 Current Focus
+
+- 🧠 Building **NuroLab** – an EEG-based cognitive wellness platform
+- 🤖 Exploring **Large Language Models (LLMs)** and AI Agents
+- 📱 Developing cross-platform applications with **Flutter**
+- ⚡ Building scalable APIs using **FastAPI**
 ---
 
 # 🚀 Featured Projects
@@ -120,10 +122,11 @@ Published in **JETIR (2025)**
 
 🚀 **Research Interests**
 
-- AI-assisted EEG Analysis
-- Cognitive Readiness Assessment
-- Defence AI
-- Intelligent Signal Processing
+- Artificial Intelligence
+- EEG Signal Processing
+- Intelligent Healthcare Systems
+- Defence Technology
+- Large Language Models
 
  --- 
  # 🏆 Achievements
@@ -160,10 +163,9 @@ Published in **JETIR (2025)**
 
 </p>
 
+---
 
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=120&section=footer"/>
-
+<i>Curiosity drives innovation. Engineering turns it into reality.</i>
 </p>
 
