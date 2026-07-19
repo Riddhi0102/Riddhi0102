@@ -12,7 +12,7 @@ Artificial Intelligence • Software Engineering • Research
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=950&lines=Building+Intelligent+Systems;Intern+%40+Coforge-Shared+Services+Department;Turning+Ideas+Into+Impactful+Technology;Always+Learning.+Always+Building."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=950&lines=Building+Intelligent+Systems;AI+Research+%7C+Software+Engineering;Turning+Ideas+Into+Impactful+Technology;Always+Learning.+Always+Building."/>
 </p>
 
 # 🤝 Let's Connect
@@ -45,6 +45,13 @@ Artificial Intelligence • Software Engineering • Research
 - 📄 Published author in **JETIR**
 - 🎖️ NCC 'C' Certificate holder with leadership and team coordination experience
 - 🌱 Currently working with Flutter, FastAPI, Python, React, and Machine Learning
+---
+# ⚒️ Tech Arsenal
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,dart,flutter,react,fastapi,spring,mysql,postgresql,firebase,git,github,vscode,androidstudio&perline=9" />
+</p>
+
 ---
 
 # 🚀 Current Focus
@@ -122,23 +129,7 @@ Published in **JETIR (2025)**
 - Intelligent Signal Processing
 
  --- 
-# ⚒️ Tech Arsenal
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,dart,flutter,react,fastapi,spring,mysql,postgresql,firebase,git,github,vscode,androidstudio&perline=9" />
-</p>
-
----
-# 🌱 Currently Learning
-
-- 🤖 Large Language Models (LLMs)
-- 📱 Flutter & Cross-Platform Development
-- ⚡ FastAPI & Backend Engineering
-- 🧠 Advanced Machine Learning
-- ☁️ Cloud & DevOps Fundamentals
----
-
-# 🏆 Achievements
+ # 🏆 Achievements
 
 - 🎖️ NCC 'C' Certificate
 - 💼 Software Engineering Intern @ Coforge
@@ -147,6 +138,7 @@ Published in **JETIR (2025)**
 - 👩‍💻 Women Techmakers Member
 
 ---
+
 ## 🏅 Google Developer Badges
 
 <p align="center">
@@ -155,7 +147,16 @@ Published in **JETIR (2025)**
   <img src="assets/badges/sdk-tools.png" width="140"/>
   <img src="assets/badges/women-techmakers.png" width="140"/>
 </p>
+---
 
+# 🌱 Currently Learning
+
+- 🤖 Large Language Models (LLMs)
+- 📱 Flutter & Cross-Platform Development
+- ⚡ FastAPI & Backend Engineering
+- 🧠 Advanced Machine Learning
+- ☁️ Cloud & DevOps Fundamentals
+---
 > *"Curiosity drives innovation. Engineering turns it into reality."*
 ---
 
